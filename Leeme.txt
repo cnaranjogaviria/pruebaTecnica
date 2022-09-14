@@ -1,0 +1,15 @@
+    Introducción
+
+A continuación una breve explicación de las herramientas usadas durante el desarrollo de esta prueba técnica:
+
+1. Word, para definir y documentar el plan de pruebas
+2. Excel para documentar los bugs
+3. Cypress para automatizar las pruebas
+4. Postman para ejecutar la colletion entregada
+
+
+Claudia Naranjo
+
+ 
+
+
